@@ -64,10 +64,14 @@ o) Buka terminal (harus berada di direktori projek Hugo kita) dan ketik perintah
   Referensi yang di pakai------------>(https://platinum-computer.com/apa-itu-public-private-dan-hybrid-cloud/)
                          ------------>(https://idcloudhost.com/apa-itu-private-cloud-pengertian-fungsi-keunggulan-dan-kelebihannya/)
                          ------------>(https://www.jagoanhosting.com/blog/implementasi-ci-cd-pipeline/#:~:text=CI%2FCD%20juga%20berguna%20dalam,dalam%20'environment'%20yang%20terstruktur.)
+                         
                          ------------>(https://idcloudhost.com/pengertian-dan-manfaat-git-bagi-developer/#:~:text=Git%20push%20%3A%20untuk%20mengirimkan%20perubahan,yang%20aktif%20dengan%20branchyang%20dipilih)
+                         
                          ------------>(https://www.hostinger.co.id/tutorial/nginx-reverse-proxy/#:~:text=Reverse%20Proxy%20pada%20sistem%20operasi,dari%20proxy%20server%20itu%20sendiri.)
+                         
                          ------------>(https://gist.github.com/alfafahmi/3223ea5d91ba9cd77add886ef63781a0)
                          ------------>(https://www.kompasiana.com/mboi.coy/54febc6fa33311d31a50f940/lebih-lanjut-mengenai-reverse-proxy)
                          ------------>(https://www.dicoding.com/blog/apa-itu-devops/)
+                         
                          Hugo------------>(https://www.youtube.com/watch?v=0GZxidrlaRM&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&index=6)
                          
