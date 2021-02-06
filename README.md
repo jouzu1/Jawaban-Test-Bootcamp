@@ -59,6 +59,8 @@ o) Buka terminal (harus berada di direktori projek Hugo kita) dan ketik perintah
   
   *Keterangan :
   OS---> Windows 10
+  
+  
   Referensi yang di pakai------------>(https://platinum-computer.com/apa-itu-public-private-dan-hybrid-cloud/)
                          ------------>(https://idcloudhost.com/apa-itu-private-cloud-pengertian-fungsi-keunggulan-dan-kelebihannya/)
                          ------------>(https://www.jagoanhosting.com/blog/implementasi-ci-cd-pipeline/#:~:text=CI%2FCD%20juga%20berguna%20dalam,dalam%20'environment'%20yang%20terstruktur.)
