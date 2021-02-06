@@ -55,7 +55,8 @@ o) Buka terminal (harus berada di direktori projek Hugo kita) dan ketik perintah
    -git commit -m "(Bebas mau commit apa aja)"
    -git push -u origin main
    
-  jouzu1.github.io
+  [Project Hugo](https://jouzu1.github.io)
+  [Repository Hugo](https://github.com/jouzu1/jouzu1.github.io.git)
   
   *Keterangan :
   OS---> Windows 10
